@@ -4,13 +4,6 @@
 * [課程大綱](https://github.com/jumbokh/intro-computers/blob/master/refers/%E5%BE%8C%E9%86%AB-%E8%A8%88%E6%A6%82%E8%AA%B2%E7%A8%8B%E5%AE%89%E6%8E%92%E5%A4%A7%E7%B6%B1.pdf)
 ##
 ### 機器學習
-#### 參考書目
-* ![book1](images/book1.png)
-* [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
-* ![book2](images/book2.png)
-* [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
-* ![book3](images/book3.pnh)
-* [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
 #### 講義 & PPT
 * [講義](https://github.com/jumbokh/intro-computers/blob/master/%E8%AC%9B%E7%BE%A9.pdf)
 * [PPT]()
@@ -27,3 +20,11 @@
 * [机器学习之路：python线性回归分类器 LogisticRegression SGDClassifier 进行良恶性肿瘤分类预测](https://www.cnblogs.com/Lin-Yi/p/8970510.html)
 * [vs.code Download](https://code.visualstudio.com/)
 * [Deeplearning Algorithms Tutorial ](https://github.com/KeKe-Li/tutorial)
+
+#### 參考書目
+* ![book1](images/book1.png)
+* [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
+* ![book2](images/book2.png)
+* [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
+* ![book3](images/book3.png)
+* [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
