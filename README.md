@@ -1,7 +1,7 @@
 # intro-computers
 ### 後醫-計概課程
 * ![時程](images/timetable.jpg)
-* [課程大綱](https://github.com/jumbokh/intro-computers/blob/master/refers/%E5%BE%8C%E9%86%AB-%E8%A8%88%E6%A6%82%E8%AA%B2%E7%A8%8B%E5%AE%89%E6%8E%92%E5%A4%A7%E7%B6%B1.xlsx)
+* [課程大綱](https://github.com/jumbokh/intro-computers/blob/master/refers/%E5%BE%8C%E9%86%AB-%E8%A8%88%E6%A6%82%E8%AA%B2%E7%A8%8B%E5%AE%89%E6%8E%92%E5%A4%A7%E7%B6%B1.pdf)
 ##
 ### 機器學習
 #### 參考書目
