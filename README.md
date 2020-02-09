@@ -15,8 +15,13 @@
 * [05.06 Linear Regression](https://nbviewer.jupyter.org/github/jumbokh/regression_learn/blob/master/src/05.06-Linear-Regression.ipynb)
 #### 例題
 * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
+* [keras 範例](https://github.com/keras-team/keras/tree/master/examples)
+* [政大蔡炎龍老師-MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
+* [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
 #### 參考連結
 * [維基百科: 機器學習](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+* [[自學課程]成為python數據分析達人的第一課](http://moocs.nccu.edu.tw/course/123/intro)
+##### 見 7.5 做鳶尾花的分類
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
 * [SGD, Momentum, AdaGrad, Adam Optimizer](https://mc.ai/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-notesgd-momentum-adagrad-adam-optimizer-2/)
