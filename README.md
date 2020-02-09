@@ -5,7 +5,8 @@
 ### 機器學習
 #### 參考書目
 #### 講義 & PPT
-
+* [講義](https://github.com/jumbokh/intro-computers/blob/master/%E8%AC%9B%E7%BE%A9.pdf)
+* [PPT]()
 #### 參考連結
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
