@@ -5,6 +5,12 @@
 ##
 ### 機器學習
 #### 參考書目
+* ![book1](images/book1.png)
+* [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
+* ![book2](images/book2.png)
+* [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
+* ![book3](images/book3.pnh)
+* [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
 #### 講義 & PPT
 * [講義](https://github.com/jumbokh/intro-computers/blob/master/%E8%AC%9B%E7%BE%A9.pdf)
 * [PPT]()
