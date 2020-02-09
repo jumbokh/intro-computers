@@ -11,8 +11,8 @@
 #### 程式
 * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
 * [正則化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)
-* [標準化]()
-* [Normalization]()
+* [標準化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/standardizing_sequence.ipynb)
+* [Normalization](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/Normalizing_Sequence.ipynb)
 #### 參考連結
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
