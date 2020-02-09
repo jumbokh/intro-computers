@@ -6,7 +6,7 @@
 ### 機器學習
 #### 講義 & PPT
 * [講義](https://github.com/jumbokh/intro-computers/blob/master/%E8%AC%9B%E7%BE%A9.pdf)
-* [PPT]()
+* [PPT](ML_ClassD1.pdf)
 #### 程式
 * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
 * [正則化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)
