@@ -13,6 +13,8 @@
 * [標準化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/standardizing_sequence.ipynb)
 * [Normalization](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/Normalizing_Sequence.ipynb)
 * [05.06 Linear Regression](https://nbviewer.jupyter.org/github/jumbokh/regression_learn/blob/master/src/05.06-Linear-Regression.ipynb)
+#### 例題
+* [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
 #### 參考連結
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
