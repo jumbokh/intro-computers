@@ -16,6 +16,7 @@
 #### 例題
 * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
 #### 參考連結
+* [維基百科: 機器學習](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
 * [SGD, Momentum, AdaGrad, Adam Optimizer](https://mc.ai/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-notesgd-momentum-adagrad-adam-optimizer-2/)
