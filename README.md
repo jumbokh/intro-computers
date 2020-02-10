@@ -9,6 +9,7 @@
 * [PPT](ML_ClassD1.pdf)
 #### 程式
 * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
+* [判斷是哪個亞種的鳶尾花](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/0702%20%E5%88%A4%E6%96%B7%E6%98%AF%E5%93%AA%E5%80%8B%E4%BA%9E%E7%A8%AE%E7%9A%84%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
 * [正則化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)
 * [標準化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/standardizing_sequence.ipynb)
 * [Normalization](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/Normalizing_Sequence.ipynb)
