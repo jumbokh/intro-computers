@@ -21,6 +21,7 @@
 #### 參考連結
 * [維基百科: 機器學習](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 * [[自學課程]成為python數據分析達人的第一課](http://moocs.nccu.edu.tw/course/123/intro)
+* [機器學習：使用Python](https://machine-learning-python.kspax.io/)
 ##### 見 7.5 做鳶尾花的分類
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 ##### 見 [3.1. 线性回归](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression.html)
