@@ -10,6 +10,7 @@
 * [深度學習激勵函數介紹](http://cvfiasd.pixnet.net/blog/post/275774124-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%BF%80%E5%8B%B5%E5%87%BD%E6%95%B8%E4%BB%8B%E7%B4%B9)
 * [activation-function-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex03_activation-function-selection.ipynb)
 * [optimizer-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex04_optimizer-selection.ipynb)
+* [NN：神經網路的基本原理](http://moocs.nccu.edu.tw/media/23053)
 * [搭建深度神經網絡（DNN）解決多分類問題](https://www.itread01.com/content/1539327497.html)
 * [用 CNN 做圖形辨識](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/02-1.%20CNN.ipynb)
 * [轉移學習](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/05-2.%20%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E_%E8%BD%89%E7%A7%BB%E5%AD%B8%E7%BF%92%E7%9A%84%E7%B7%B4%E7%BF%92%20%28%E4%BB%A5%20CNN%20%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%E7%82%BA%E4%BE%8B%29.ipynb)
