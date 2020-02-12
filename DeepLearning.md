@@ -12,6 +12,7 @@
 * [optimizer-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex04_optimizer-selection.ipynb)
 * [NN：神經網路的基本原理](http://moocs.nccu.edu.tw/media/23053)
 * [搭建深度神經網絡（DNN）解決多分類問題](https://www.itread01.com/content/1539327497.html)
+##
 * [用 CNN 做圖形辨識](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/02-1.%20CNN.ipynb)
 * [轉移學習](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/05-2.%20%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E_%E8%BD%89%E7%A7%BB%E5%AD%B8%E7%BF%92%E7%9A%84%E7%B7%B4%E7%BF%92%20%28%E4%BB%A5%20CNN%20%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%E7%82%BA%E4%BE%8B%29.ipynb)
 * [自編碼器 Autoencoder](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/07-1.%20%E8%87%AA%E7%B7%A8%E7%A2%BC%E5%99%A8%20Autoencoder.ipynb)
