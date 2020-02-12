@@ -11,6 +11,7 @@
 * [深度学习基础](https://zh.d2l.ai/chapter_deep-learning-basics/index.html)
 * [旗標: tf.keras 技術者們必讀！深度學習攻略手冊](https://www.books.com.tw/products/0010847908)
 * [Keras 手冊：激活函数的用法](https://keras.io/zh/activations/)
+### 影片
 * [吳恩達機器學習](https://www.youtube.com/watch?v=WIjXwOlXDYs&list=PLOXON7BTL9IW7Ggbc09jLqGmzkwPI4-3V)
 * [李飛飛--史丹佛大學上課--CNN](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
