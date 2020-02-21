@@ -1,5 +1,7 @@
 ## CNN && RNN && LSTM
 ### 講義
+* [史丹佛大學 CNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture5.pdf)
+* [史丹佛大學 RNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture10.pdf)
 * [Deep Learning in Computer vision](https://drive.google.com/open?id=1DdxOvxezFkEGnl9QvimslePZO5AaR4eE)
 * [視覺辨識課程](https://github.com/jumbokh/cv_face/blob/master/%E8%A6%96%E8%A6%BA%E8%BE%A8%E8%AD%98%E8%AA%B2%E7%A8%8B.pptx)
 
