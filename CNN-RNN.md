@@ -6,6 +6,12 @@
 * [視覺辨識課程](https://github.com/jumbokh/cv_face/blob/master/%E8%A6%96%E8%A6%BA%E8%BE%A8%E8%AD%98%E8%AA%B2%E7%A8%8B.pptx)
 
 ### 範例
+* [標準神經網路做手寫辨識（MNIST）](https://colab.research.google.com/drive/1zzAbObZHF4EJblF3bKwQwfBikrARWOni?authuser=1)
+* [CNN--MNIST](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/02-1.%20CNN.ipynb)
+* [用RNN做情意分析](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/04-1.%20RNN.ipynb)
+##
+* [Deep Learning MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
+* [Keras 範例集](https://github.com/keras-team/keras/tree/master/examples)
 ### 實作
 ### 參考
 * [CNN中的参数解释及计算](https://flat2010.github.io/2018/06/15/%E6%89%8B%E7%AE%97CNN%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0/)
