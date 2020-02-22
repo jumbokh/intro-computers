@@ -1,4 +1,4 @@
-## CNN && RNN && LSTM
+## CNN && RNN
 ### 講義
 * [史丹佛大學 CNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture5.pdf)
 * [史丹佛大學 RNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture10.pdf)
