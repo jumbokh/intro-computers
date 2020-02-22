@@ -13,6 +13,8 @@
 * [Deep Learning MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
 * [Keras 範例集](https://github.com/keras-team/keras/tree/master/examples)
 ### 實作
+* [調校你的 CNN](https://colab.research.google.com/drive/1VNMBiBvsIWfyy5ug37LN8ycN26VSPUjI?authuser=1)
+* [改造你的 1 號神經網路](https://colab.research.google.com/drive/1-h0WCVzl_ImkrThzQzCKYRURVBeJXMoG?authuser=1)
 ### 參考
 * [CNN中的参数解释及计算](https://flat2010.github.io/2018/06/15/%E6%89%8B%E7%AE%97CNN%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0/)
 * [初探卷積神經網路](https://chtseng.wordpress.com/2017/09/12/%E5%88%9D%E6%8E%A2%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/)
