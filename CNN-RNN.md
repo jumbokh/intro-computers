@@ -38,6 +38,40 @@ update memory(16, 16)
 </pre>
 ### LSTM 範例
 * ![LSTM](images/LSTM-ex.PNG)
+#### 符號約定：
+<pre>
+1.	Input: zz
+2.	操作Input Gate: zizi
+3.	操作Forget Gate: zfzf
+4.	操作Output Gate: zozo
+5.	Output: aa
+6.	Memory Cell: CC
+</pre>
+#### 流程說明：
+<pre>
+1.	ZZ通過sigmoid function得到g(z)g(z)
+2.	ZiZi通過sigmoid function得到g(zi)g(zi)
+3.	1、2所得相乘得到g(z)f(zi)g(z)f(zi)
+4.	ZfZf通過sigmoid function得到g(zf)g(zf)
+5.	Memory Cell乘上Forget Gat的值，得到cf(zf)cf(zf)
+	當forget gate的輸入為0，那代表之前存在memory cell的值會變0
+	當forget gate的輸入為1，那代表之前存在memory cell的值會保留
+6.	將5、3相加得到c′c′
+	c′=g(z)f(zi)+cf(zf)c′=g(z)f(zi)+cf(zf)
+	當input gate的輸入為0，那就相當於沒有更新
+	當input gate的輸入為1，那就相當於直接把g(z)g(z)當做輸入
+7.	Memory Cell cc變為c′c′
+8.	c′c′通過h function得到h(c′)h(c′)
+9.	zozo通過sigmoid function得到f(zo)f(zo)
+	當output gate的輸入為1，代表可以通過
+	當output gate的輸入為0，則f(zo)f(zo)為0，代表無法通過
+10.	9、10相乘得到a=h(c′)f(zo)a=h(c′)f(zo)
+</pre>
+#### activation function:
+<pre>
+o	通常選擇使用Sigmoid Function，因為輸出是介於0、1之間的值，用以代表gate被打開的程度
+</pre>
+#### 見: [LSTM-李弘毅](refers/LSTM-李弘毅.pdf)
 * ![LSTM](images/LSTM-ex1.PNG)
 ##
 * [調校你的 CNN](https://colab.research.google.com/drive/1VNMBiBvsIWfyy5ug37LN8ycN26VSPUjI?authuser=1)
