@@ -38,6 +38,7 @@ update memory(16, 16)
 </pre>
 ### LSTM 範例
 * ![LSTM](images/LSTM-ex.PNG)
+* ![LSTM](images/LSTM-ex1.PNG)
 ##
 * [調校你的 CNN](https://colab.research.google.com/drive/1VNMBiBvsIWfyy5ug37LN8ycN26VSPUjI?authuser=1)
 * [改造你的 1 號神經網路](https://colab.research.google.com/drive/1-h0WCVzl_ImkrThzQzCKYRURVBeJXMoG?authuser=1)
