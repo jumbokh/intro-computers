@@ -20,6 +20,7 @@
 #### CNN 範例
 ![CNN-EXI](https://github.com/jumbokh/intro-computers/blob/master/images/CNN-ex.PNG)
 * ![Feature Map](https://github.com/jumbokh/intro-computers/blob/master/images/CNN-ex3.PNG)
+* ![CNN Car](images/CNN-car.PNG)
 ##
 #### RNN 範例
 * ![RNN範例](images/RNN-ex.png)
