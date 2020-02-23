@@ -14,6 +14,27 @@
 * [Deep Learning MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
 * [Keras 範例集](https://github.com/keras-team/keras/tree/master/examples)
 ### 實作
+* ![RNN範例](images/RNN-ex.png)
+<pre>
+舉例來說，權重皆為1，沒有偏差單元(bias)，activation function為線性，memory初始為0，輸入為Sequence(1,1,1,1,2,2)。
+
+第一次輸入
+(1, 1)
+memory(0, 0)
+output(4, 4)
+update memory(2, 2)
+第二次輸入
+(1, 1)
+memory(2, )
+output(12, 12)
+update memory(6, 6)
+第三次輸入
+(2, 2)
+memory(6, 6)
+output(32, 32)
+update memory(16, 16)
+輸入的序列有其順序性，從上面簡單的範例可以發現到，調換了順序會造成產生的結果不同。
+</pre>
 * [調校你的 CNN](https://colab.research.google.com/drive/1VNMBiBvsIWfyy5ug37LN8ycN26VSPUjI?authuser=1)
 * [改造你的 1 號神經網路](https://colab.research.google.com/drive/1-h0WCVzl_ImkrThzQzCKYRURVBeJXMoG?authuser=1)
 ### 參考
