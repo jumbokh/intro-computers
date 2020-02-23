@@ -89,6 +89,7 @@ o	通常選擇使用Sigmoid Function，因為輸出是介於0、1之間的值，
 * [CNN中的参数解释及计算](https://flat2010.github.io/2018/06/15/%E6%89%8B%E7%AE%97CNN%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0/)
 * [初探卷積神經網路](https://chtseng.wordpress.com/2017/09/12/%E5%88%9D%E6%8E%A2%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/)
 * [ML Lecture 25: Recurrent Neural Network](http://violin-tao.blogspot.com/2017/12/ml-recurrent-neural-network-rnn-part-i.html)
+* [李弘毅課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
 * [李宏毅机器学习课程笔记9：Recurrent Neural Network](https://blog.csdn.net/xzy_thu/article/details/74930482)
 * [李宏毅_ML_Lecture_21-1](https://hackmd.io/@shaoeChen/BJ14sUSzN?type=view)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
