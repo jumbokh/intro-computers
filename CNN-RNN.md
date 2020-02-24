@@ -3,7 +3,7 @@
 * [史丹佛大學 CNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture5.pdf)
 * [史丹佛大學 RNN簡報](https://github.com/jumbokh/intro-computers/blob/master/refers/cs231n_2017_lecture10.pdf)
 * [CNN-李弘毅](refers/CNN-李弘毅.pdf)
-* [RNN-李弘毅](refers/RNN-李弘毅.pdf)
+* [RNN-李弘毅](https://github.com/jumbokh/intro-computers/blob/master/refers/RNN%20(v2).pdf)
 * ![CNN Architechure](https://github.com/jumbokh/intro-computers/blob/master/images/CNN-Archi.PNG)
 ##
 * [Deep Learning in Computer vision](https://drive.google.com/open?id=1DdxOvxezFkEGnl9QvimslePZO5AaR4eE)
