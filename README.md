@@ -9,6 +9,7 @@
 * 機器學習[PPT](ML_ClassD1.pdf)
 * [深度學習](DeepLearning.md)
 * [CNN、RNN](CNN-RNN.md)
+* [物聯網概論](https://github.com/jumbokh/intro-computers/blob/master/%E7%89%A9%E8%81%AF%E7%B6%B2%E6%A6%82%E8%AB%96-%E8%A8%88%E6%A6%82R2.pdf)
 #### 程式
 * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
 * [判斷是哪個亞種的鳶尾花](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/0702%20%E5%88%A4%E6%96%B7%E6%98%AF%E5%93%AA%E5%80%8B%E4%BA%9E%E7%A8%AE%E7%9A%84%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
