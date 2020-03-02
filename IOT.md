@@ -26,3 +26,21 @@
 * ![應用](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-app1.jpg)
 * ![Smart Grid](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-grid.png)
 * ![Smart Home](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-home.jpg)
+#### 參考
+* Book:[輕鬆讀懂物聯網：技術、應用、標準和商業模式](https://www.tenlong.com.tw/products/9789862014066)
+* [清大 黃能富教授：物聯網基礎架構與應用簡介](https://github.com/jumbokh/intro-computers/blob/master/IOT/1.1_%E7%89%A9%E8%81%AF%E7%B6%B2%E5%9F%BA%E7%A4%8E%E6%9E%B6%E6%A7%8B%E8%88%87%E6%87%89%E7%94%A8%E7%B0%A1%E4%BB%8B.pdf)
+* [物聯網感測器與感測網路設計](https://github.com/jumbokh/intro-computers/blob/master/IOT/3.1_%E7%89%A9%E8%81%AF%E7%B6%B2%E6%84%9F%E6%B8%AC%E5%99%A8%E8%88%87%E6%84%9F%E6%B8%AC%E7%B6%B2%E8%B7%AF%E8%A8%AD%E8%A8%88.pdf)
+* [物聯網無線傳輸技術](https://github.com/jumbokh/intro-computers/blob/master/IOT/5.1_%E7%89%A9%E8%81%AF%E7%B6%B2%E7%84%A1%E7%B7%9A%E5%82%B3%E8%BC%B8%E6%8A%80%E8%A1%93.pdf)
+* [物聯網框架標準](https://github.com/jumbokh/intro-computers/blob/master/IOT/6.1_%E7%89%A9%E8%81%AF%E7%B6%B2%E6%A1%86%E6%9E%B6%E6%A8%99%E6%BA%96.pdf)
+* [類比訊號](https://github.com/jumbokh/intro-computers/blob/master/IOT/CH4%E9%A1%9E%E6%AF%94%E8%A8%8A%E8%99%9F.ppt)
+* [zigbee簡報1041](https://github.com/jumbokh/intro-computers/blob/master/IOT/zigbee%E7%B0%A1%E5%A0%B11041.ppt)
+* [TKU 張志勇](https://github.com/jumbokh/intro-computers/blob/master/IOT/IoT-tku.pdf)
+* [交大，物聯網平台：樹莓派](https://github.com/jumbokh/intro-computers/blob/master/IOT/RPi-0.%20Introduction.pdf)
+* [GITHUB: rpi_class](https://github.com/jumbokh/rpi_class)
+
+
+
+
+
+
+
