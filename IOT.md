@@ -1,4 +1,6 @@
 ### 物聯網概論
+#### 講義
+* [物聯網-計概](https://github.com/jumbokh/intro-computers/blob/master/IOT/%E7%89%A9%E8%81%AF%E7%B6%B2%E6%A6%82%E8%AB%96-%E8%A8%88%E6%A6%82R2.pdf)
 #### 定義
 <pre>
 物聯網(Internet of Things) 指的是將無處不在 (Ubiquitous)的終端設備(Devices)和設備(Facilities)，
@@ -12,5 +14,12 @@
 和服務功能，實現對萬物的高效、節能、安全、環保的"管、控、營"一體化
 </pre>
 #### 架構
+![IOT Archi](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/iot-stru.png)
 #### 通訊
+![RF](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/rf.jpg)
+![RF-Spec](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/rf-1.png)
 #### 應用
+![App](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/iot-app.png)
+* ![應用](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-app1.jpg)
+* ![Smart Grid](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-grid.png)
+* ![Smart Home](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/smart-home.jpg)
