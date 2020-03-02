@@ -38,6 +38,7 @@
 * [TKU 張志勇](https://github.com/jumbokh/intro-computers/blob/master/IOT/IoT-tku.pdf)
 * [交大，物聯網平台：樹莓派](https://github.com/jumbokh/intro-computers/blob/master/IOT/RPi-0.%20Introduction.pdf)
 * [GITHUB: rpi_class](https://github.com/jumbokh/rpi_class)
+* [物聯網](https://contest.cpmah.org.tw/award/2015/web/C2015b011/p1-0.html)
 
 
 
