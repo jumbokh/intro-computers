@@ -18,8 +18,9 @@
     * 換能器(Transducer)：感測器(Sensor) + 致動器(Actuator)
 #### 架構
 ![IOT Archi](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/iot-stru.png)
-#### 通訊
+#### 通訊/網路
 ![RF](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/rf.jpg)
+![RF](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/P2-3.jpg)
 ![RF-Spec](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/rf-1.png)
 #### 應用
 ![App](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/iot-app.png)
