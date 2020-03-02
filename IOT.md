@@ -13,6 +13,9 @@
 預案管理、遠端控制、安全防範、遠端維護保全、線上升級、統計報表、決策支援、領導桌面(Dashboard)等管理
 和服務功能，實現對萬物的高效、節能、安全、環保的"管、控、營"一體化
 </pre>
+* 感知層
+    * 由感測器(Sensor)和部分與感測器連成一體的感測網(無緣感測網組成)
+    * 換能器(Transducer)：感測器(Sensor) + 致動器(Actuator)
 #### 架構
 ![IOT Archi](https://github.com/jumbokh/intro-computers/blob/master/IOT/images/iot-stru.png)
 #### 通訊
