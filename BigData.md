@@ -1,5 +1,6 @@
 ## 大數據資料分析
 ### 講義
+* [BigData](https://github.com/jumbokh/intro-computers/blob/master/refers/BigData1082.pdf)
 ### 範例
 ### 參考
 * [利用Python进行数据分析](https://github.com/BrambleXu/pydata-notebook)
