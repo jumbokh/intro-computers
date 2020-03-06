@@ -1,5 +1,6 @@
 ## 雲端運算概論
 ### 講義
+* [雲端運算](https://github.com/jumbokh/intro-computers/blob/master/refers/Cloud-Computing.pdf)
 ### 範例
 * [負載平衡](https://github.com/jumbokh/gcp_class/blob/master/Load_balance.md)
 * [Cloud AutoML Vision Object Detection documentation](https://cloud.google.com/vision/automl/object-detection/docs)
