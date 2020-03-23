@@ -34,6 +34,15 @@
 * [旗標: tf.keras 技術者們必讀！深度學習攻略手冊](https://www.books.com.tw/products/0010847908)
 * [Keras 手冊：激活函数的用法](https://keras.io/zh/activations/)
 * [Python Deep Learning](https://github.com/jumbokh/Python-Deep-Learning)
+* [深度學習](https://github.com/jumbokh/intro-computers/blob/master/DeepLearning.md)
+* 神經網路基礎
+    * [反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
+    * [DNN Backpropogation](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html)
+    * [梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
+    * [損失函數](https://zh.wikipedia.org/wiki/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0)
+    * [最小平方法](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95)
+    * [激勵函數](https://zh.wikipedia.org/wiki/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0)
+* [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
 ### FB 社群
 * [BigDataSpark 大數據論壇](https://www.facebook.com/groups/753114451505938/)
 * [Pyimagesearch](https://www.facebook.com/pyimagesearch/?__tn__=kC-R&eid=ARDFkuN8vfqigxgRvbWj2vt4-F8QMsLXnPXfLa3wO1LbBEYItsDLGi0K_qI6hdcqUJ-M0boVd5cT1mNR7dyFC3eV87L67CD61iFqORhtvx2V9u5eqHvJ0MdPKUDHS0u898K0UdgwDJDN_wtyPnqM7TY-SvxbuvsawbWeTlVfaTQFs0ChUQ&hc_ref=ARSOZBSalIFrnChJscUqk71MseIAcUz64N5lSgeTWmIj90AeyUdFK_x-v-D6LJTzMGY&fref=nf&__xts__[0]=68.ARCANxNAYiMpjD_BOK09L6yY5aWdW4lXM4lk06umxlPBBhME6cgNnKN0Mahyv-TBiUfA9ImN0GIEnVYbU8KA8YYlvdPhhYBS9PwZg5aadcHVRxej-lCeve1oUviGeue0j1AUd0wQ41t2-VMz865FlZOXE6DUM6pdZHAFGbxeNVtfpCLJjbK6En2WWzvDR1x6BAbzFaaFqApEtn_MQWVT3GQxuNzPnV4TTGHYQrICQOVxKOla-YVv90fv-3GvkyiVsHT9g0YXC3hX5_NBu3hR3U5k8IMRPQbrr4hI)
