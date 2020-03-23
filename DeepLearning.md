@@ -2,6 +2,7 @@
 ### 講義
 * [蔡炎龍--Deep Learning and Design Thinking](https://github.com/jumbokh/DataScience_1082/blob/master/data/deeplearninganddesignthinking-180509111347.pdf)
 * [李宏毅-一天搞懂深度學習](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E6%9D%8E%E5%AE%8F%E6%AF%85-%E4%B8%80%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92.pdf)
+* [李宏毅-深度學習入門](https://github.com/jumbokh/DataScience_1082/blob/master/data/7.%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.pdf)
 * [李宏毅--梯度下降](https://github.com/jumbokh/DataScience_1082/blob/master/data/4.%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.pdf)
 * [手把手的深度學習實務](https://drive.google.com/open?id=1EDfVxJ7CZz9yz9T4ODJLG0oi28QB5V0X)
 * [手把手的深度學習實務II](https://github.com/jumbokh/hands-on-DL/blob/master/slides_181202.pdf)
