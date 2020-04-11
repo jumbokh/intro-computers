@@ -10,11 +10,11 @@
 ### 範例
 * [打造人生第一個神經網路](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/%E6%94%BF%E5%A4%A7%E8%81%B7%E6%B6%AF%E4%B8%AD%E5%BF%832019/%E6%89%93%E9%80%A0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%80%8B%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
 * [設計你的神經網路](https://nbviewer.jupyter.org/github/yenlung/AI-Demo/blob/master/%E8%A8%AD%E8%A8%88%E4%BD%A0%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
-* [loss-function-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex01_loss-function-selection.ipynb)
+* [loss-function-selection](https://nbviewer.jupyter.org/github/jumbokh/hands-on-DL/blob/master/ex01_loss-function-selection.ipynb)
 * [深度學習激勵函數介紹](http://cvfiasd.pixnet.net/blog/post/275774124-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%BF%80%E5%8B%B5%E5%87%BD%E6%95%B8%E4%BB%8B%E7%B4%B9)
 * [激勵函數實踐](https://ithelp.ithome.com.tw/articles/10223490)
-* [activation-function-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex03_activation-function-selection.ipynb)
-* [optimizer-selection](https://github.com/jumbokh/hands-on-DL/blob/master/ex04_optimizer-selection.ipynb)
+* [activation-function-selection](https://nbviewer.jupyter.org/github/jumbokh/hands-on-DL/blob/master/ex03_activation-function-selection.ipynb)
+* [optimizer-selection](https://nbviewer.jupyter.org/github/jumbokh/hands-on-DL/blob/master/ex04_optimizer-selection.ipynb)
 * [NN：神經網路的基本原理](http://moocs.nccu.edu.tw/media/23053)
 * [搭建深度神經網絡（DNN）解決多分類問題](https://www.itread01.com/content/1539327497.html)
 ##
